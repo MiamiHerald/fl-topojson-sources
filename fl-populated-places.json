@@ -5,7 +5,6 @@
             "type": "GeometryCollection",
             "geometries": [{
                 "type": "MultiPolygon",
-                "id": "Florida",
                 "arcs": [
                     [
                         [0]
@@ -270,268 +269,306 @@
             "geometries": [{
                 "type": "Point",
                 "properties": {
-                    "name": "Winter Haven"
+                    "name": "Winter Haven",
+                    "population": 27938
                 },
-                "id": "Florida",
+                "id": "Winter Haven",
                 "coordinates": [7760, 5388]
             }, {
                 "type": "Point",
                 "properties": {
-                    "name": "Melbourne"
+                    "name": "Melbourne",
+                    "population": 76326
                 },
-                "id": "Florida",
+                "id": "Melbourne",
                 "coordinates": [9241, 5483]
             }, {
                 "type": "Point",
                 "properties": {
-                    "name": "Homestead"
+                    "name": "Homestead",
+                    "population": 35379
                 },
-                "id": "Florida",
+                "id": "Homestead",
                 "coordinates": [9413, 1433]
             }, {
                 "type": "Point",
                 "properties": {
-                    "name": "Sanford"
+                    "name": "Sanford",
+                    "population": 45289
                 },
-                "id": "Florida",
+                "id": "Sanford",
                 "coordinates": [8356, 6577]
             }, {
                 "type": "Point",
                 "properties": {
-                    "name": "Miami Beach"
+                    "name": "Miami Beach",
+                    "population": 89326
                 },
-                "id": "Florida",
+                "id": "Miami Beach",
                 "coordinates": [9868, 1962]
             }, {
                 "type": "Point",
                 "properties": {
-                    "name": "Coral Springs"
+                    "name": "Coral Springs",
+                    "population": 131674
                 },
-                "id": "Florida",
+                "id": "Coral Springs",
                 "coordinates": [9685, 2676]
             }, {
                 "type": "Point",
                 "properties": {
-                    "name": "Port Charlotte"
+                    "name": "Port Charlotte",
+                    "population": 49333
                 },
-                "id": "Florida",
+                "id": "Port Charlotte",
                 "coordinates": [7269, 3805]
             }, {
                 "type": "Point",
                 "properties": {
-                    "name": "Spring Hill"
+                    "name": "Spring Hill",
+                    "population": 69078
                 },
-                "id": "Florida",
+                "id": "Spring Hill",
                 "coordinates": [6687, 6095]
             }, {
                 "type": "Point",
                 "properties": {
-                    "name": "Palm Coast"
+                    "name": "Palm Coast",
+                    "population": 41483
                 },
-                "id": "Florida",
+                "id": "Palm Coast",
                 "coordinates": [8431, 7735]
             }, {
                 "type": "Point",
                 "properties": {
-                    "name": "Palatka"
+                    "name": "Palatka",
+                    "population": 10737
                 },
-                "id": "Florida",
+                "id": "Palatka",
                 "coordinates": [7868, 7905]
             }, {
                 "type": "Point",
                 "properties": {
-                    "name": "Leesburg"
+                    "name": "Leesburg",
+                    "population": 18284
                 },
-                "id": "Florida",
+                "id": "Leesburg",
                 "coordinates": [7562, 6609]
             }, {
                 "type": "Point",
                 "properties": {
-                    "name": "Lake City"
+                    "name": "Lake City",
+                    "population": 10924
                 },
-                "id": "Florida",
+                "id": "Lake City",
                 "coordinates": [6566, 8744]
             }, {
                 "type": "Point",
                 "properties": {
-                    "name": "Crestview"
+                    "name": "Crestview",
+                    "population": 16702
                 },
-                "id": "Florida",
+                "id": "Crestview",
                 "coordinates": [1388, 9618]
             }, {
                 "type": "Point",
                 "properties": {
-                    "name": "Panama City"
+                    "name": "Panama City",
+                    "population": 37633
                 },
-                "id": "Florida",
+                "id": "Panama City",
                 "coordinates": [2596, 8696]
             }, {
                 "type": "Point",
                 "properties": {
-                    "name": "Coral Gables"
+                    "name": "Coral Gables",
+                    "population": 42485
                 },
-                "id": "Florida",
+                "id": "Coral Gables",
                 "coordinates": [9658, 1816]
             }, {
                 "type": "Point",
                 "properties": {
-                    "name": "Cape Coral"
+                    "name": "Cape Coral",
+                    "population": 102286
                 },
-                "id": "Florida",
+                "id": "Cape Coral",
                 "coordinates": [7435, 3190]
             }, {
                 "type": "Point",
                 "properties": {
-                    "name": "Naples"
+                    "name": "Naples",
+                    "population": 21498
                 },
-                "id": "Florida",
+                "id": "Naples",
                 "coordinates": [7678, 2477]
             }, {
                 "type": "Point",
                 "properties": {
-                    "name": "Fort Pierce"
+                    "name": "Fort Pierce",
+                    "population": 37723
                 },
-                "id": "Florida",
+                "id": "Fort Pierce",
                 "coordinates": [9613, 4497]
             }, {
                 "type": "Point",
                 "properties": {
-                    "name": "Kissimmee"
+                    "name": "Kissimmee",
+                    "population": 63685
                 },
-                "id": "Florida",
+                "id": "Kissimmee",
                 "coordinates": [8188, 5806]
             }, {
                 "type": "Point",
                 "properties": {
-                    "name": "Titusville"
+                    "name": "Titusville",
+                    "population": 42700
                 },
-                "id": "Florida",
+                "id": "Titusville",
                 "coordinates": [8978, 6302]
             }, {
                 "type": "Point",
                 "properties": {
-                    "name": "St. Augustine"
+                    "name": "St. Augustine",
+                    "population": 12097
                 },
-                "id": "Florida",
+                "id": "St. Augustine",
                 "coordinates": [8311, 8288]
             }, {
                 "type": "Point",
                 "properties": {
-                    "name": "Ocala"
+                    "name": "Ocala",
+                    "population": 49558
                 },
-                "id": "Florida",
+                "id": "Ocala",
                 "coordinates": [7224, 7192]
             }, {
                 "type": "Point",
                 "properties": {
-                    "name": "Fort Lauderdale"
+                    "name": "Fort Lauderdale",
+                    "population": 170510
                 },
-                "id": "Florida",
+                "id": "Fort Lauderdale",
                 "coordinates": [9855, 2467]
             }, {
                 "type": "Point",
                 "properties": {
-                    "name": "Apalachicola"
+                    "name": "Apalachicola",
+                    "population": 2284
                 },
-                "id": "Florida",
+                "id": "Apalachicola",
                 "coordinates": [3468, 8026]
             }, {
                 "type": "Point",
                 "properties": {
-                    "name": "Vero Beach"
+                    "name": "Vero Beach",
+                    "population": 17262
                 },
-                "id": "Florida",
+                "id": "Vero Beach",
                 "coordinates": [9527, 4800]
             }, {
                 "type": "Point",
                 "properties": {
-                    "name": "Pensacola"
+                    "name": "Pensacola",
+                    "population": 56255
                 },
-                "id": "Florida",
+                "id": "Pensacola",
                 "coordinates": [540, 9103]
             }, {
                 "type": "Point",
                 "properties": {
-                    "name": "St. Petersburg"
+                    "name": "St. Petersburg",
+                    "population": 246316
                 },
-                "id": "Florida",
+                "id": "St. Petersburg",
                 "coordinates": [6514, 4998]
             }, {
                 "type": "Point",
                 "properties": {
-                    "name": "Key West"
+                    "name": "Key West",
+                    "population": 24646
                 },
-                "id": "Florida",
+                "id": "Key West",
                 "coordinates": [7694, 20]
             }, {
                 "type": "Point",
                 "properties": {
-                    "name": "West Palm Beach"
+                    "name": "West Palm Beach",
+                    "population": 82103
                 },
-                "id": "Florida",
+                "id": "West Palm Beach",
                 "coordinates": [9879, 3410]
             }, {
                 "type": "Point",
                 "properties": {
-                    "name": "Sarasota"
+                    "name": "Sarasota",
+                    "population": 53327
                 },
-                "id": "Florida",
+                "id": "Sarasota",
                 "coordinates": [6710, 4326]
             }, {
                 "type": "Point",
                 "properties": {
-                    "name": "Daytona Beach"
+                    "name": "Daytona Beach",
+                    "population": 64661
                 },
-                "id": "Florida",
+                "id": "Daytona Beach",
                 "coordinates": [8695, 7228]
             }, {
                 "type": "Point",
                 "properties": {
-                    "name": "Gainesville"
+                    "name": "Gainesville",
+                    "population": 125684
                 },
-                "id": "Florida",
+                "id": "Gainesville",
                 "coordinates": [6980, 7911]
             }, {
                 "type": "Point",
                 "properties": {
-                    "name": "Ft. Myers"
+                    "name": "Ft. Myers",
+                    "population": 53015
                 },
-                "id": "Florida",
+                "id": "Ft. Myers",
                 "coordinates": [7592, 3248]
             }, {
                 "type": "Point",
                 "properties": {
-                    "name": "Tallahassee"
+                    "name": "Tallahassee",
+                    "population": 153583
                 },
-                "id": "Florida",
+                "id": "Tallahassee",
                 "coordinates": [4407, 9147]
             }, {
                 "type": "Point",
                 "properties": {
-                    "name": "Orlando"
+                    "name": "Orlando",
+                    "population": 207970
                 },
-                "id": "Florida",
+                "id": "Orlando",
                 "coordinates": [8222, 6146]
             }, {
                 "type": "Point",
                 "properties": {
-                    "name": "Jacksonville"
+                    "name": "Jacksonville",
+                    "population": 0
                 },
-                "id": "Florida",
+                "id": "Jacksonville",
                 "coordinates": [7840, 8964]
             }, {
                 "type": "Point",
                 "properties": {
-                    "name": "Tampa"
+                    "name": "Tampa",
+                    "population": 324465
                 },
-                "id": "Florida",
+                "id": "Tampa",
                 "coordinates": [6802, 5275]
             }, {
                 "type": "Point",
                 "properties": {
-                    "name": "Miami"
+                    "name": "Miami",
+                    "population": 382894
                 },
-                "id": "Florida",
+                "id": "Miami",
                 "coordinates": [9744, 1931]
             }]
         }
