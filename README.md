@@ -1,6 +1,6 @@
 # Florida Topojson Sources
 
-This repo will host topojson files for florida based of original shapefile data from [The Census Bureau](https://www.census.gov/) and [Natural Earth Data](http://www.naturalearthdata.com/).
+This repo will host topojson files for Florida.  Based off of original shapefile data from [The Census Bureau](https://www.census.gov/) and [Natural Earth Data](http://www.naturalearthdata.com/).
 
 ## Help / Contributing
 
